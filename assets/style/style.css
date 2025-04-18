@@ -59,6 +59,16 @@ body {
     margin-bottom: 20px;
     color: #4285F4;
 }
+
+.section div ul {
+    text-align: left;
+}
+
+
+.section div p {
+    text-align: left;    
+}
+
 #contato ul {
     list-style: none;
     font-size: 1.1rem;
